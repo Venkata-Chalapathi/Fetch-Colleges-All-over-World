@@ -19,12 +19,9 @@ Technologies Used
 
 How to Use
 
-1. Clone the repository:
-   git clone https://Venkata-Chalapathi//fetch-colleges-world.git
+1. Open index.html in your browser
 
-2. Open index.html in your browser
-
-3. Type a country name like India or United States and view the list of colleges
+2. Type a country name like India or United States and view the list of colleges
 
 API Used
 
