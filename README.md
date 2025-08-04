@@ -1,2 +1,37 @@
-# Fetch-Colleges-All-over-World
-This project uses an external API to fetch and display a list of colleges from different countries around the world. Users can search by country to get detailed information about colleges located there. Built using HTML, CSS, and JavaScript to demonstrate working with APIs and dynamic data rendering.
+Fetch Colleges All Over the World
+
+This project allows users to fetch and view a list of colleges from around the world using an external API. It is a simple web application built with HTML, CSS, and JavaScript that demonstrates how to work with APIs and render data dynamically.
+
+Features
+
+- Search colleges by country name  
+- Displays college name and official website  
+- Uses real-time API data  
+- Clean and responsive UI  
+- Great for learning API integration
+
+Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
+- College API
+
+How to Use
+
+1. Clone the repository:
+   git clone https://Venkata-Chalapathi//fetch-colleges-world.git
+
+2. Open index.html in your browser
+
+3. Type a country name like India or United States and view the list of colleges
+
+API Used
+
+Universities API http://universities.hipolabs.com/
+
+License
+
+This project is open source and free to use
+
+Made with love for learning and exploring web development
